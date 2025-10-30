@@ -21,8 +21,9 @@ This project demonstrates an automated CI/CD pipeline that builds, pushes, and d
 docker build -t flask-ci-cd .
 docker run -p 5000:5000 flask-ci-cd
 ```
+## 📬 Output
+### Visit: 
 
-## Visit: 
 ```bash
 http://localhost:5000
 ```
